@@ -6,11 +6,11 @@ public class goodnight {
         JFrame jFrame = new JFrame();
         JOptionPane.showMessageDialog(jFrame, "Goodnight :)");
 
-//        try{
-//            Runtime.getRuntime().exec("shutdown -s");
-//        }catch(Exception e){
-//            System.out.println("This was a bad idea");
-//            e.printStackTrace();
-//        }
+        try{
+            Runtime.getRuntime().exec("shutdown -s");
+        }catch(Exception e){
+            System.out.println("This was a bad idea");
+            e.printStackTrace();
+        }
     }
 }
