@@ -11,3 +11,4 @@ and complicated when you're no longer protected by the perfect coding environmen
 Anyway, this app is really annoying. You'll get a popup saying "goodnight" and then your computer will shut down. 
 
 At least, that is what it is supposed to do.
+**Edit: it worked
